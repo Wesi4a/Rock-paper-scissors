@@ -1,0 +1,22 @@
+#gameDiv{
+    border-radius: 20px;
+    border: 2px solid;
+    padding: 15px;
+    margin: 10px;
+    text-align: center;
+    background-color: brown;
+    width: 500px;
+    height: 250px;
+}
+.choicebtn{
+    line-height: 30px;
+    width:100px;
+    border-radius: 20px;
+    margin: 10px;
+}
+#playerT{
+    color: cornflowerblue;
+}
+#computerT{
+    color: cornsilk;
+}
